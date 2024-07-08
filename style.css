@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .universidades {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .universidad {
+    width: 300px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .universidad img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .universidad h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .universidad p {
+    font-size: 14px;
+  }
+  
+  .universidad a {
+    display: block;
+    background-color: #008CBA;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+  .universidad a:hover {
+    background-color: #0069D9;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
