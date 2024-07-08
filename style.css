@@ -5,7 +5,7 @@ body {
   }
   
   header {
-    background-color: #4CAF50;
+    background-color: #1a91e0;
     color: white;
     text-align: center;
     padding: 20px;
@@ -48,18 +48,18 @@ body {
   
   .universidad a {
     display: block;
-    background-color: #008CBA;
+    background-color: #1a91e0;
     color: white;
     padding: 10px;
     text-decoration: none;
   }
   
   .universidad a:hover {
-    background-color: #0069D9;
+    background-color: #1a91e0;
   }
   
   footer {
-    background-color: #333;
+    background-color: #1a91e0;
     color: white;
     text-align: center;
     padding: 10px;
